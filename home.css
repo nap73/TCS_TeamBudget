@@ -1,0 +1,50 @@
+
+   
+h1{
+    
+    text-align:center;
+    font-size: 50px;
+    background: #fbc5d0;
+    color: #F08C99;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    font-family: 'Courier New', Courier, monospace;
+    padding: 40px;
+    margin: 0%;
+
+}
+body{
+    background-color:  whitesmoke;
+}
+
+
+
+#hello:hover {
+    letter-spacing: 0.8em;
+    background-color: #F08C99;
+  }
+ 
+ 
+  
+  #hello {
+    color: white;
+  }
+  button {
+   
+    height: 250px;
+    width: 250px;
+    padding: 1.5em auto;
+    margin: 1em auto;
+    margin-top: 200px;
+    margin-left: 350px;
+    background-color: #FEB1C0;
+    border : none;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    transition: all 0.2s cubic-bezier(.4,0,.2,1);
+    font-size: 20px;
+   
+
+  }
+  
+  
